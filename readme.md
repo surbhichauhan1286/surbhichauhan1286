@@ -32,7 +32,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=surbhichauhan1286&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=surbhichauhan1286&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=surbhichauhan1286&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 ### 🔥 Activity Graph
 <p align="center">
